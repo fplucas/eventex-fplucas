@@ -2,6 +2,9 @@
 
 Sistema de eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/fplucas/eventex-fplucas.svg?branch=master)](https://travis-ci.org/fplucas/eventex-fplucas)
+[![Code Health](https://landscape.io/github/fplucas/eventex-fplucas/master/landscape.svg?style=flat)](https://landscape.io/github/fplucas/eventex-fplucas/master)
+
 ## Como desenvolver?
 
 1. Clone o repositório.
